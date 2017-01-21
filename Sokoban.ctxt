@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Sokoban()
+comment1.params=
+comment1.target=void\ getTotalGoals()
+comment1.text=\n\ Gets\ the\ total\ number\ of\ goals\ in\ a\ level\ \n
+comment2.params=
+comment2.target=boolean\ checkWin()
+comment2.text=\n\ Checks\ to\ see\ if\ the\ user\ won\n
+comment3.params=level
+comment3.target=void\ initLevel(int)
+comment4.params=g
+comment4.target=void\ paintComponent(java.awt.Graphics)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
