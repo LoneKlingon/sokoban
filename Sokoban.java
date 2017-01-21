@@ -14,16 +14,13 @@ import javax.swing.Timer;
 
 
 /*
- * 
- * *
-COURSE:CCPS109
-TERM:W 2014
-STUDENT NAME: Tony Youbi
-STUDENT ID: 500409029
-I certify, under the penalty of failing the course,
-that the code below is fully my own original work.
+    Author: Anthony Youbi Sobodker
+    Uploaded to Github 2017 
+    Created for CCPS109
+    Description: Sokoban Game 
+
 */
- 
+
 
 public class Sokoban extends JPanel {
     LevelReader soko = new LevelReader(); //creates object of class LevelReader
